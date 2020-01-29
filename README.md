@@ -25,9 +25,9 @@ Insert the desided integer number
 
 ## 😞 Limitations
 
-Just positive integers
-Just from 0 to 999
-Return just in brazilian Portuguese
+- Just positive integers
+- Just from 0 to 999
+- Return just in brazilian Portuguese
 
 
 ## 🤝 Contributing
