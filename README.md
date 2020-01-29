@@ -1,5 +1,5 @@
 ﻿<h1 align="center">Welcome to Positive Numbers Converter Console APP 🧮</h1>
-Simple console application used in an code interview
+Simple task developed using console application to solve a challenge from a code interview
 
 ## 🚀 Usage
 
