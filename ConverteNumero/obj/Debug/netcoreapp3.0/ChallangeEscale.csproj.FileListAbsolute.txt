@@ -1,0 +1,11 @@
+D:\cavicchiolli-projects\ChallangeEscale\ChallangeEscale\bin\Debug\netcoreapp3.0\ChallangeEscale.exe
+D:\cavicchiolli-projects\ChallangeEscale\ChallangeEscale\bin\Debug\netcoreapp3.0\ChallangeEscale.deps.json
+D:\cavicchiolli-projects\ChallangeEscale\ChallangeEscale\bin\Debug\netcoreapp3.0\ChallangeEscale.runtimeconfig.json
+D:\cavicchiolli-projects\ChallangeEscale\ChallangeEscale\bin\Debug\netcoreapp3.0\ChallangeEscale.runtimeconfig.dev.json
+D:\cavicchiolli-projects\ChallangeEscale\ChallangeEscale\bin\Debug\netcoreapp3.0\ChallangeEscale.dll
+D:\cavicchiolli-projects\ChallangeEscale\ChallangeEscale\bin\Debug\netcoreapp3.0\ChallangeEscale.pdb
+D:\cavicchiolli-projects\ChallangeEscale\ChallangeEscale\obj\Debug\netcoreapp3.0\ChallangeEscale.csprojAssemblyReference.cache
+D:\cavicchiolli-projects\ChallangeEscale\ChallangeEscale\obj\Debug\netcoreapp3.0\ChallangeEscale.AssemblyInfoInputs.cache
+D:\cavicchiolli-projects\ChallangeEscale\ChallangeEscale\obj\Debug\netcoreapp3.0\ChallangeEscale.AssemblyInfo.cs
+D:\cavicchiolli-projects\ChallangeEscale\ChallangeEscale\obj\Debug\netcoreapp3.0\ChallangeEscale.dll
+D:\cavicchiolli-projects\ChallangeEscale\ChallangeEscale\obj\Debug\netcoreapp3.0\ChallangeEscale.pdb
