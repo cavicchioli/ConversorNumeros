@@ -1,5 +1,4 @@
-﻿# ConversorNumeros
-<h1 align="center">Welcome to Positive Numbers Converter Console APP 🧮</h1>
+﻿<h1 align="center">Welcome to Positive Numbers Converter Console APP 🧮</h1>
 Simple console application used in an code interview
 
 ## 🚀 Usage
